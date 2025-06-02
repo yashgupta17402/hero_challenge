@@ -5,3 +5,4 @@ folium>=0.12.0
 streamlit-folium>=0.8.0 
 snowflake-connector-python
 statsmodels
+pyarrow<19.0.0
